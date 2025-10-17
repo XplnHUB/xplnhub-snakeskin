@@ -4,7 +4,7 @@ Mamba is a **modern, lightweight frontend framework/library** designed to make b
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Component-Based Architecture**: Build reusable UI components easily.  
 - **State Management**: Reactive state system with lifecycle hooks.  
@@ -18,7 +18,7 @@ Mamba is a **modern, lightweight frontend framework/library** designed to make b
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 pip install mamba
@@ -28,7 +28,7 @@ pip install mamba
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 ### 1. Create a New Project
 
@@ -103,7 +103,7 @@ mamba build
 
 ---
 
-## 🧩 Folder Structure
+## Folder Structure
 
 ```
 my-landing-page/
@@ -117,7 +117,7 @@ my-landing-page/
 
 ---
 
-## 🎨 Styling
+## Styling
 
 * Tailwind CSS and Bootstrap fully supported.
 * Use CSS classes directly in `render()` for rapid UI design.
@@ -145,7 +145,7 @@ my-landing-page/
 
 ---
 
-## 💡 Contribution
+## Contribution
 
 Mamba is **open source** and welcomes contributions!
 
@@ -156,15 +156,13 @@ Mamba is **open source** and welcomes contributions!
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## ⚡ Acknowledgements
+## Acknowledgements
 
 Inspired by **React, Vue, Svelte, and Astro**, Mamba brings **modern frontend best practices** into a **lightweight, flexible, and developer-friendly framework**.
 
-Do you want me to do that next?
-```
