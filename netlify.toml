@@ -1,0 +1,8 @@
+[build]
+  publish = "dist"
+  command = "pip install snakeskin && snakeskin build"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
