@@ -15,7 +15,7 @@ This guide explains how to deploy a Snakeskin project to Netlify.
 3. Click "New site from Git"
 4. Select your repository
 5. Configure the build settings:
-   - Build Command: `pip install snakeskin && snakeskin build`
+   - Build Command: `pip install snakeskin-xplnhub && snakeskin build`
    - Publish Directory: `dist`
 6. Click "Deploy site"
 
@@ -53,7 +53,7 @@ The `netlify.toml` file in your project configures how Netlify builds and serves
 ```toml
 [build]
   publish = "dist"
-  command = "pip install snakeskin && snakeskin build"
+  command = "pip install snakeskin-xplnhub && snakeskin build"
 
 [[redirects]]
   from = "/*"

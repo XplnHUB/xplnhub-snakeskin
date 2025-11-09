@@ -2,7 +2,7 @@
 
 This document explains the structure of the Snakeskin package and which files are essential for PyPI.
 
-GitHub Repository: [https://github.com/XplnHUB/snakeskin-xplnhub](https://github.com/XplnHUB/snakeskin-xplnhub)
+GitHub Repository: [https://github.com/XplnHUB/xplnhub-snakeskin](https://github.com/XplnHUB/xplnhub-snakeskin)
 
 ## Essential Files for PyPI
 

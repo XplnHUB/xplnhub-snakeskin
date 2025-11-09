@@ -30,7 +30,7 @@ GitHub Repository: [https://github.com/XplnHUB/xplnhub-snakeskin](https://github
    ```
 6. Test the installation:
    ```bash
-   pip install --index-url https://test.pypi.org/simple/ snakeskin
+   pip install --index-url https://test.pypi.org/simple/ snakeskin-xplnhub
    ```
 7. Upload to PyPI:
    ```bash

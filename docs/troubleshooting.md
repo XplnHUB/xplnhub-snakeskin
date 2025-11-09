@@ -6,16 +6,16 @@ This guide helps you solve common issues with Snakeskin.
 
 ### Package Not Found
 
-**Problem**: `pip install snakeskin` fails with "Package not found" error.
+**Problem**: `pip install snakeskin-xplnhub` fails with "Package not found" error.
 
 **Solution**: 
 1. Make sure you're using the correct package name:
    ```bash
-   pip install snakeskin
+   pip install snakeskin-xplnhub
    ```
 2. If that doesn't work, try installing from GitHub:
    ```bash
-   pip install git+https://github.com/yourusername/snakeskin.git
+   pip install git+https://github.com/XplnHUB/xplnhub-snakeskin.git
    ```
 
 ### Version Conflicts
@@ -30,7 +30,7 @@ This guide helps you solve common issues with Snakeskin.
    ```
 2. Install Snakeskin in the virtual environment:
    ```bash
-   pip install snakeskin
+   pip install snakeskin-xplnhub
    ```
 
 ## CLI Issues
@@ -42,7 +42,7 @@ This guide helps you solve common issues with Snakeskin.
 **Solution**:
 1. Make sure the package is installed:
    ```bash
-   pip show snakeskin
+   pip show snakeskin-xplnhub
    ```
 2. Check if the script is in your PATH:
    ```bash
@@ -50,7 +50,7 @@ This guide helps you solve common issues with Snakeskin.
    ```
 3. Try reinstalling with:
    ```bash
-   pip install --force-reinstall snakeskin
+   pip install --force-reinstall snakeskin-xplnhub
    ```
 
 ### Project Creation Fails
@@ -297,7 +297,7 @@ This guide helps you solve common issues with Snakeskin.
 **Solution**:
 1. Check if the package is installed:
    ```bash
-   pip show snakeskin
+   pip show snakeskin-xplnhub
    ```
 2. Check your import statements:
    ```python
@@ -375,7 +375,7 @@ If your application is slow:
 
 If you're still having issues:
 
-1. Check the [GitHub repository](https://github.com/yourusername/snakeskin) for known issues
+1. Check the [GitHub repository](https://github.com/XplnHUB/xplnhub-snakeskin) for known issues
 2. Join the community Discord server
 3. Open an issue on GitHub with:
    - A minimal reproducible example

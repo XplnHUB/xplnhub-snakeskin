@@ -5,19 +5,19 @@ Snakeskin is a modern, lightweight frontend framework designed to make building 
 ## Installation
 
 ```bash
-pip install snakeskin
+pip install snakeskin-xplnhub
 ```
 
 For development features including hot reload:
 
 ```bash
-pip install snakeskin[dev]
+pip install snakeskin-xplnhub[dev]
 ```
 
 For Bootstrap integration:
 
 ```bash
-pip install snakeskin[bootstrap]
+pip install snakeskin-xplnhub[bootstrap]
 ```
 
 ## Creating a New Project

@@ -15,7 +15,7 @@ This guide explains how to deploy a Snakeskin project to Vercel.
 3. Click "New Project"
 4. Import your repository
 5. Configure the project:
-   - Build Command: `pip install snakeskin && snakeskin build`
+   - Build Command: `pip install snakeskin-xplnhub && snakeskin build`
    - Output Directory: `dist`
 6. Click "Deploy"
 

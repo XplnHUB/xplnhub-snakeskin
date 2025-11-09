@@ -16,23 +16,23 @@ Welcome to the Snakeskin documentation! Snakeskin is a modern, lightweight front
 ## Installation
 
 ```bash
-pip install snakeskin
+pip install snakeskin-xplnhub
 ```
 
 For development features including hot reload:
 
 ```bash
-pip install snakeskin[dev]
+pip install snakeskin-xplnhub[dev]
 ```
 
 For Bootstrap integration:
 
 ```bash
-pip install snakeskin[bootstrap]
+pip install snakeskin-xplnhub[bootstrap]
 ```
 
 ## Quick Links
 
 - [GitHub Repository](https://github.com/XplnHUB/xplnhub-snakeskin)
-- [PyPI Package](https://pypi.org/project/snakeskin/)
+- [PyPI Package](https://pypi.org/project/snakeskin-xplnhub/)
 - [Issue Tracker](https://github.com/XplnHUB/xplnhub-snakeskin/issues)
