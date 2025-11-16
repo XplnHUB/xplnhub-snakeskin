@@ -1,5 +1,11 @@
 # snakeskin-xplnhub
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2106926b-992a-4921-a982-19046c1122bf" />
+</div>
+
+
+
 Snakeskin is a **modern, lightweight frontend framework/library** designed to make building **component-based web applications** fast, flexible, and enjoyable. It integrates seamlessly with **Tailwind CSS** and **Bootstrap**, and provides a **CLI tool** to scaffold, run, and build projects effortlessly. Snakeskin is designed to be **AI-ready and backend-friendly** for future integrations
 
 ---
