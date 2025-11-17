@@ -1,12 +1,19 @@
 # snakeskin-xplnhub
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2106926b-992a-4921-a982-19046c1122bf" />
+  <img src="https://github.com/user-attachments/assets/2106926b-992a-4921-a982-19046c1122bf" width="180" />
 </div>
 
 
-
 Snakeskin is a **modern, lightweight frontend framework/library** designed to make building **component-based web applications** fast, flexible, and enjoyable. It integrates seamlessly with **Tailwind CSS** and **Bootstrap**, and provides a **CLI tool** to scaffold, run, and build projects effortlessly. Snakeskin is designed to be **AI-ready and backend-friendly** for future integrations
+
+<div align="center">
+  
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/snakeskin-xplnhub?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=Total+Downloads)](https://pepy.tech/projects/snakeskin-xplnhub)
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/snakeskin-xplnhub?period=monthly&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=RED&left_text=Monthly+Downloads)](https://pepy.tech/projects/snakeskin-xplnhub)
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/snakeskin-xplnhub?period=weekly&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=BLUE&left_text=Weekly+Downloads)](https://pepy.tech/projects/snakeskin-xplnhub)
+  
+</div>
 
 ---
 
