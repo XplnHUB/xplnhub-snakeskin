@@ -16,6 +16,8 @@ Snakeskin is a **modern, lightweight frontend framework/library** designed to ma
 </div>
 
 ---
+## [Help us to imporve](https://forms.gle/N9iAzTtqpyRfP8MK9)
+---
 
 ## Features
 
